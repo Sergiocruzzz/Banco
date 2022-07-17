@@ -1,0 +1,21 @@
+Nome: sergio
+Idade: 15
+Peso: 76
+Altura: 1,5
+IMC: 34
+Resultado: Grau de obesidade I
+------------------------------------------
+Nome: sergio
+Idade: 22
+Peso: 76
+Altura: 1,76
+IMC: 25
+Resultado: Grau de obesidade I
+------------------------------------------
+Nome: antonio
+Idade: 22
+Peso: 71
+Altura: 1,76
+IMC: 23
+Resultado: Peso normal
+------------------------------------------
